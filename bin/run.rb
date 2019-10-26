@@ -4,4 +4,4 @@ Octokit
 Pry
 AwesomePrint
 require_relative '../config/environment'
-require_relative 'bundler/setup'
+require_relative '..bundler/setup'
